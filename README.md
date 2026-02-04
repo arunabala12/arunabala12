@@ -1,22 +1,31 @@
-<h1 style="color:#1f6feb; font-family:Georgia, serif;">
-  👋 Hi, I’m Aruna Bala M
-</h1>
+# 👋 Hi, I’m Aruna Bala M
 
-<h3 style="color:#7e22ce; font-family:Trebuchet MS, sans-serif;">
-  🧪 QA Analyst | Manual & Automation Testing
-</h3>
+### 🧪 QA Analyst | Manual & Automation Testing
+Backend & QA specialist working on **Banking / Payments and Healthcare systems**.  
+I ensure software quality through **manual & automated testing**, API validation, and secure file transfers.
 
-<h2 style="color:#15803d; font-family:Verdana, sans-serif;">
-  📖 About Me
-</h2>
-QA Analyst experienced in manual and automation testing for web and mobile applications in the Banking / Payments domain.
+---
 
-<h2 style="color:#c2410c; font-family:'Segoe UI', Tahoma, sans-serif;">
-  🛠️ Skills
-</h2>
-Manual Testing | Automation (Selenium, Java) | API Testing (Postman) | SQL | Azure DevOps
+### ⚙️ Skills & Tools
+**Testing & QA**  
+Manual Testing • Functional & Regression Testing • UAT • API Testing (Postman) • Selenium (Java)
 
-<h2 style="color:#78350f; font-family:Courier New, monospace;">
-  📫 Contact
-</h2>
-📧 Arunabala76@gmail.com
+**Backend & Database**  
+SQL • ISO 20022 • EDI X12 • SFTP • Azure DevOps
+
+**Automation & DevOps**  
+Selenium • Git • GitHub • TestNG • Docker (learning)
+
+**Exploring / Interests**  
+AI / ML • Automation tools • FinTech payments • Gaming • Anime
+
+---
+
+### 🎓 Certifications
+Professional Scrum Master I (PSM I) – In progress  
+ECBA Certification – In progress
+
+---
+
+### 💬 Welcome to my GitHub
+Welcome to my GitHub 👋

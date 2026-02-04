@@ -1,16 +1,30 @@
-## Hi there 👋
+# QA Testing Project – Manual & Automation
 
-<!--
-**arunabala12/arunabala12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📖 Project Overview
+This repository contains manual and automation testing artifacts for a web and mobile application in the **Banking / Payments domain**.  
+The project focuses on ensuring application quality through functional, regression, API, and UAT testing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Scope of Testing
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- UAT Testing
+- API Testing
+- Backend / Database Validation
+- Mobile Testing
+
+---
+
+## 🛠️ Tools & Technologies
+- **Automation:** Selenium WebDriver, Java
+- **API Testing:** Postman
+- **Test Management:** Azure DevOps / ALM / Rally
+- **Database:** SQL
+- **Version Control:** Git, GitHub
+- **File Transfers:** SFTP
+- **Standards:** EDI X12 (850, 855, 997), ISO 20022 (pain.001, pain.002)
+
+---
